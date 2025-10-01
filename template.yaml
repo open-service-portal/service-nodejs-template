@@ -6,7 +6,6 @@ metadata:
   title: Node.js Service
   description: Create a new Node.js microservice with Express.js and basic project structure
   tags:
-    - source:github-import
     - nodejs
     - javascript
     - express
